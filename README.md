@@ -1,3 +1,3 @@
-# Project Name
+# Draghts (aka checkers)
 
-Project description
+Project No2 for Java Core course in MIPT (FIVT)
